@@ -92,6 +92,53 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Hacking a Google Interview – Handout 2](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_2.pdf)
 * [Hacking a Google Interview – Handout 3](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_3.pdf)
 
+## AI/ML Patterns & Infrastructure
+
+### AI/ML Design Patterns
+
+* [Machine Learning Design Patterns (O'Reilly)](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
+* [AI Design Patterns — Sam Witteveen (GitHub)](https://github.com/samwit/ai-design-patterns)
+* [Google Cloud ML Design Patterns](https://cloud.google.com/architecture/ml-design-patterns)
+* [Emerging Architectures for LLM Applications (a16z)](https://a16z.com/emerging-architectures-for-llm-applications/)
+
+### MLOps & Model Serving
+
+* [MLOps: Continuous delivery and automation pipelines in ML (Google)](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+* [Made With ML — MLOps Course](https://madewithml.com/)
+* [Serving ML Models at Scale — Lessons Learned (Uber)](https://www.uber.com/blog/scaling-michelangelo/)
+* [BentoML: Unified Model Serving Framework](https://docs.bentoml.com)
+* [MLflow — An open source platform for the ML lifecycle](https://mlflow.org/docs/latest/index.html)
+
+### LLM Deployment & Inference Patterns
+
+* [LLM Inference Performance Engineering (Databricks)](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
+* [vLLM: Easy, Fast, and Cheap LLM Serving](https://docs.vllm.ai)
+* [Ollama — Run LLMs Locally](https://ollama.com)
+* [RAG (Retrieval-Augmented Generation) Pattern Overview (AWS)](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html)
+* [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+
+### AI Infrastructure & GPU Management
+
+* [NVIDIA GPU Operator for Kubernetes](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/overview.html)
+* [Run:ai — GPU Orchestration & Scheduling](https://www.run.ai/guides/gpu-architecture)
+* [Training Large Language Models on GPU Clusters (Hugging Face)](https://huggingface.co/docs/transformers/perf_train_gpu_many)
+* [Kubernetes for ML Workloads (Kubeflow)](https://www.kubeflow.org/docs/)
+
+### AI Observability & Monitoring
+
+* [Monitoring ML Models in Production (Google SRE)](https://sre.google/resources/practices-and-processes/evaluating-where-sre-intervenes/)
+* [Evidently AI — ML Monitoring & Observability](https://docs.evidentlyai.com)
+* [Arize AI — ML Observability Platform](https://docs.arize.com/arize)
+* [Fiddler AI — Model Performance Management](https://docs.fiddler.ai)
+* [Prometheus Metrics for ML Model Monitoring](https://prometheus.io/docs/practices/instrumentation/)
+
+### AI Safety & Responsible AI
+
+* [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+* [NIST AI Risk Management Framework](https://www.nist.gov/artificial-intelligence/executive-order-safe-secure-and-trustworthy-artificial-intelligence)
+* [Google Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/)
+* [Prompt Injection and LLM Security (OWASP)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
 ## System design
 
 * The most useful course: [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
@@ -124,6 +171,12 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [Sysadmin Test Questions](https://github.com/trimstray/test-your-sysadmin-skills)
 * [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
 
+### AI/ML Interview Questions
+
+* [Machine Learning Systems Design (Chip Huyen)](https://github.com/chiphuyen/machine-learning-systems-design)
+* [MLOps Interview Questions & Answers](https://mlstack.cafe/blog/mlops-interview-questions)
+* [LLM Interview Questions for Engineers](https://www.datacamp.com/blog/top-llm-interview-questions)
+
 ### Blogposts
 
 * [SRE Interviews in Silicon Valley](http://blog.marc-seeger.de/2015/05/01/sre-interviews-in-silicon-valley)
@@ -144,6 +197,12 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 * [UNIX and Linux System Administration Handbook (5th Edition)](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
 * [Linux Pocket Guide, 3rd Edition](http://shop.oreilly.com/product/0636920040927.do)
 
+### AI/ML
+
+* [Designing Machine Learning Systems (Chip Huyen)](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+* [Building LLM Powered Applications (Valentina Alto)](https://www.packtpub.com/product/building-llm-powered-applications/9781835462317)
+* [Machine Learning Engineering (Andriy Burkov)](http://www.mlebook.com/wiki)
+
 ### Networking
 
 * [TCP/IP Illustrated, Volume 1](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
@@ -151,3 +210,6 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## Courses
 
 * [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
+* [Machine Learning Engineering for Production (MLOps) — Andrew Ng (Coursera)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+* [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
+* [Stanford CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io)
